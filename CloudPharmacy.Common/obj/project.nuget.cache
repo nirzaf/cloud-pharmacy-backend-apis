@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "e69lBHC24V+9xbAhi/XFHPWfNZgodQuMT1mcgo+u997PhLX46oB5FWSbYei0bnoW2cA1BD9d4h1Wb3fo1DFz8g==",
+  "success": true,
+  "projectFilePath": "E:\\Users\\Fazrin\\RiderProjects\\Cloud-Pharmacy-On-Azure-main\\src\\backend-apis\\CloudPharmacy.Common\\CloudPharmacy.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fazrin\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\Fazrin\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\Fazrin\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Fazrin\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "C:\\Users\\Fazrin\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Users\\Fazrin\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512",
+    "C:\\Users\\Fazrin\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
