@@ -23,14 +23,11 @@ builder.Services.AddAuthorization(options =>
 });
 
 builder.Services.AddTransient<IIdentityService, IdentityService>();
-
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
-
 builder.Services.AddAppConfiguration(builder.Configuration);
 builder.Services.AddLoggingServices();
 builder.Services.AddDataServices();
 builder.Services.AddVerifiableCredentialsServices(builder.Configuration);
-
 builder.Services.AddControllers();
 builder.Services.AddMediatR(typeof(Program));
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
