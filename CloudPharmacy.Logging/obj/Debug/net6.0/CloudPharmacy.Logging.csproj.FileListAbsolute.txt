@@ -1,0 +1,12 @@
+E:\Users\Fazrin\RiderProjects\Cloud-Pharmacy-On-Azure-main\src\backend-apis\CloudPharmacy.Logging\bin\Debug\net6.0\CloudPharmacy.Logging.deps.json
+E:\Users\Fazrin\RiderProjects\Cloud-Pharmacy-On-Azure-main\src\backend-apis\CloudPharmacy.Logging\bin\Debug\net6.0\CloudPharmacy.Logging.dll
+E:\Users\Fazrin\RiderProjects\Cloud-Pharmacy-On-Azure-main\src\backend-apis\CloudPharmacy.Logging\bin\Debug\net6.0\CloudPharmacy.Logging.pdb
+E:\Users\Fazrin\RiderProjects\Cloud-Pharmacy-On-Azure-main\src\backend-apis\CloudPharmacy.Logging\obj\Debug\net6.0\CloudPharmacy.Logging.csproj.AssemblyReference.cache
+E:\Users\Fazrin\RiderProjects\Cloud-Pharmacy-On-Azure-main\src\backend-apis\CloudPharmacy.Logging\obj\Debug\net6.0\CloudPharmacy.Logging.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Fazrin\RiderProjects\Cloud-Pharmacy-On-Azure-main\src\backend-apis\CloudPharmacy.Logging\obj\Debug\net6.0\CloudPharmacy.Logging.AssemblyInfoInputs.cache
+E:\Users\Fazrin\RiderProjects\Cloud-Pharmacy-On-Azure-main\src\backend-apis\CloudPharmacy.Logging\obj\Debug\net6.0\CloudPharmacy.Logging.AssemblyInfo.cs
+E:\Users\Fazrin\RiderProjects\Cloud-Pharmacy-On-Azure-main\src\backend-apis\CloudPharmacy.Logging\obj\Debug\net6.0\CloudPharmacy.Logging.csproj.CoreCompileInputs.cache
+E:\Users\Fazrin\RiderProjects\Cloud-Pharmacy-On-Azure-main\src\backend-apis\CloudPharmacy.Logging\obj\Debug\net6.0\CloudPharmacy.Logging.dll
+E:\Users\Fazrin\RiderProjects\Cloud-Pharmacy-On-Azure-main\src\backend-apis\CloudPharmacy.Logging\obj\Debug\net6.0\refint\CloudPharmacy.Logging.dll
+E:\Users\Fazrin\RiderProjects\Cloud-Pharmacy-On-Azure-main\src\backend-apis\CloudPharmacy.Logging\obj\Debug\net6.0\CloudPharmacy.Logging.pdb
+E:\Users\Fazrin\RiderProjects\Cloud-Pharmacy-On-Azure-main\src\backend-apis\CloudPharmacy.Logging\obj\Debug\net6.0\ref\CloudPharmacy.Logging.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qJ+TlO/kaCzFbDnGIx3z3OKvgw4v7UDLWhjtZA0U7O0=",
+  "Source": "CloudPharmacy.Patient.API",
+  "BasePath": "_content/CloudPharmacy.Patient.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

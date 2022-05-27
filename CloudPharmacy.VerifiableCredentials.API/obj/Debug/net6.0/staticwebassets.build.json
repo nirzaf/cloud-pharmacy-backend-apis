@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "FpLNnkFzP0DVnelI3TKKdkP/gp5Z3coQ5sRa1kjKZQE=",
+  "Source": "CloudPharmacy.VerifiableCredentials.API",
+  "BasePath": "_content/CloudPharmacy.VerifiableCredentials.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

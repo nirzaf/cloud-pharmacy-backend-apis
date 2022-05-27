@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CloudPharmacy.PharmacyStore.API</name>
+    </assembly>
+    <members>
+        <member name="M:CloudPharmacy.PharmacyStore.API.Controllers.MedicamentController.GetAllAvailableMedicamentsAsync">
+            <summary>
+            Get all available medicaments
+            </summary>
+        </member>
+        <member name="M:CloudPharmacy.PharmacyStore.API.Controllers.MedicamentController.VerifyPatientCredentialAsync">
+            <summary>
+            Verify patient's profile with Verifiable Credential
+            </summary>
+        </member>
+    </members>
+</doc>

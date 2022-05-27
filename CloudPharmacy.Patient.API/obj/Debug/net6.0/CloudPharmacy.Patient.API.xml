@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CloudPharmacy.Patient.API</name>
+    </assembly>
+    <members>
+        <member name="M:CloudPharmacy.Patient.API.Controllers.PatientController.GetProfileAsync">
+            <summary>
+            Gets patient's profile
+            </summary>
+        </member>
+        <member name="M:CloudPharmacy.Patient.API.Controllers.PatientController.UpdateProfileAsync(CloudPharmacy.Patient.API.Application.DTO.UpdatePatientProfileDTO)">
+            <summary>
+            Updates patient profile
+            </summary>
+        </member>
+        <member name="M:CloudPharmacy.Patient.API.Controllers.PatientController.GetPrescriptionsAsync">
+            <summary>
+            Get patient's prescriptions
+            </summary>
+        </member>
+        <member name="M:CloudPharmacy.Patient.API.Controllers.PatientController.VerifyPatientCredentialAsync">
+            <summary>
+            Issue Verifiable Credential for patient
+            </summary>
+        </member>
+    </members>
+</doc>

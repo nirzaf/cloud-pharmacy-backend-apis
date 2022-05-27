@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "jGv0EKdYjA55SDbuO3KPe/IZ2JXWSfzlm74jgF/VBjQ=",
+  "Source": "CloudPharmacy.PharmacyStore.API",
+  "BasePath": "_content/CloudPharmacy.PharmacyStore.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
